@@ -27,8 +27,9 @@ public class task1{
         iScanner.close();
 
         
-        System.out.println(Sum(n));
-        System.out.println(factorial);
+        System.out.println("n ое треугольное число равно:"+Sum(n));
+        System.out.println("n факториал равен:"+ Factor(n));
     
     }
 }
+
